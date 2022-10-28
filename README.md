@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaisiGray
 - 👀 I’m interested in blockchain, crypto,web3 and web development ...
-- 🌱 I’m currently learning web development...
+- 🌱 I’m a frontend web developer and learning full stack devlopment ..
 
 
 <!---
